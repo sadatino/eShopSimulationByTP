@@ -1,0 +1,136 @@
+
+--- Step 5 ---
+Sellers with 0 sales during the 5 steps: 40
+seller_feedback: 0.3
+search_relevance: 0.01
+seller_reponse: 0.01
+delivery_speed: 0.01
+sales_history: 0.05
+time_spent_on_product_page: 0.01
+click_rate: 0.01
+conversion: 0.01
+views: 0.1
+shopping_cart: 0.15
+search_by_query_name: 0.34
+Missed sales: 10743 out of 20000
+Successful sales: 9257
+--- Step 10 ---
+Sellers with 0 sales during the 5 steps: 41
+seller_feedback: 0.13901126348649684
+search_relevance: 0.02428634431088005
+seller_reponse: 0.16638402787117443
+delivery_speed: 0.1666530657346709
+sales_history: 0.0792366123656952
+time_spent_on_product_page: 0.017930523313047283
+click_rate: 0.00320008928505273
+conversion: 0.15160225496500226
+views: 0.10780037117473601
+shopping_cart: 0.029318215655414252
+search_by_query_name: 0.11457723183783013
+Missed sales: 8084 out of 20000
+Successful sales: 11916
+--- Step 15 ---
+Sellers with 0 sales during the 5 steps: 40
+seller_feedback: 0.20624570437079584
+search_relevance: 0.029794927456473237
+seller_reponse: 0.12338386921939516
+delivery_speed: 0.1565533466691519
+sales_history: 0.12495250977401734
+time_spent_on_product_page: 0.004959585773121573
+click_rate: 0.12320852202609119
+conversion: 0.0
+views: 0.040527271035325496
+shopping_cart: 0.1003964526048151
+search_by_query_name: 0.08997781107081305
+Missed sales: 8090 out of 20000
+Successful sales: 11910
+--- Step 20 ---
+Sellers with 0 sales during the 5 steps: 41
+seller_feedback: 0.27186096794175585
+search_relevance: 0.0951925499150401
+seller_reponse: 0.013313969948541065
+delivery_speed: 0.08789338654811263
+sales_history: 0.06382338784927616
+time_spent_on_product_page: 0.16877528194139646
+click_rate: 0.007356036352604009
+conversion: 0.012212114409115682
+views: 0.15201097666305322
+shopping_cart: 0.09620141707327527
+search_by_query_name: 0.03135991135782948
+Missed sales: 7658 out of 20000
+Successful sales: 12342
+--- Step 25 ---
+Sellers with 0 sales during the 5 steps: 40
+seller_feedback: 0.08926908413876757
+search_relevance: 0.05441264676940476
+seller_reponse: 0.1203611462763351
+delivery_speed: 0.09372650291222197
+sales_history: 0.2104715402896436
+time_spent_on_product_page: 0.09015105636691137
+click_rate: 0.0587277217485726
+conversion: 0.13533220461153206
+views: 0.0642950619032477
+shopping_cart: 0.0573860824717891
+search_by_query_name: 0.02586695251157416
+Missed sales: 9611 out of 20000
+Successful sales: 10389
+--- Step 30 ---
+Sellers with 0 sales during the 5 steps: 41
+seller_feedback: 0.05671570647143053
+search_relevance: 0.07156678380262343
+seller_reponse: 0.07397740172182203
+delivery_speed: 0.2875142569286659
+sales_history: 0.04732590187211738
+time_spent_on_product_page: 0.0660127415247486
+click_rate: 0.15217564600440553
+conversion: 0.0526611515569447
+views: 0.11060711164615752
+shopping_cart: 0.0194662544284741
+search_by_query_name: 0.0619770440426103
+Missed sales: 7425 out of 20000
+Successful sales: 12575
+--- Step 35 ---
+Sellers with 0 sales during the 5 steps: 40
+seller_feedback: 0.18253628550804996
+search_relevance: 0.003968926705535582
+seller_reponse: 0.021982778540747948
+delivery_speed: 0.17715326571291856
+sales_history: 0.09174873040150516
+time_spent_on_product_page: 0.07453734754738009
+click_rate: 0.10009721777088008
+conversion: 0.10988632318048484
+views: 0.08824152708349628
+shopping_cart: 0.0912623421713725
+search_by_query_name: 0.05858525537762906
+Missed sales: 7761 out of 20000
+Successful sales: 12239
+--- Step 40 ---
+Sellers with 0 sales during the 5 steps: 42
+seller_feedback: 0.015164581707015502
+search_relevance: 0.04012248208908187
+seller_reponse: 0.046606381569117276
+delivery_speed: 0.23673711732162966
+sales_history: 0.11228373183956009
+time_spent_on_product_page: 0.022982038351423397
+click_rate: 0.08627637064552907
+conversion: 0.14460213117526377
+views: 0.08287426429455635
+shopping_cart: 0.20873955794546512
+search_by_query_name: 0.003611343061357921
+Missed sales: 8746 out of 20000
+Successful sales: 11254
+--- Step 45 ---
+Sellers with 0 sales during the 5 steps: 40
+seller_feedback: 0.20406805610853965
+search_relevance: 0.0968186124876261
+seller_reponse: 0.016989392413232537
+delivery_speed: 0.19436337125027844
+sales_history: 0.12821335820906388
+time_spent_on_product_page: 0.07159773142803359
+click_rate: 0.07295534981249523
+conversion: 0.05109893937906533
+views: 0.018181927686849852
+shopping_cart: 0.024422356113309285
+search_by_query_name: 0.12129090511150611
+Missed sales: 7504 out of 20000
+Successful sales: 12496
